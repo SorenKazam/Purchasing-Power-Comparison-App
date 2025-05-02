@@ -2,6 +2,9 @@
 
 This is a small and practical web app that compares how much a product costs *in terms of salary* between two countries. It helps visualize the **purchasing power** required to buy the same product in different economies 🌍.
 
+![imagem](https://github.com/user-attachments/assets/f489dfbc-aff0-482d-ac39-cc9416539b65)
+
+
 ## 📊 What It Does
 
 You enter:
@@ -45,14 +48,6 @@ This tool can help:
 - `index.html` → The main interface  
 - `style.css` → Simple and clean styling  
 - `scripts.js` → Logic that calculates the percentages and updates the UI
-
-## ✨ Demo
-
-🧪 Want to try it? Just open the project locally and you're good to go.
-
-## 📸 Screenshot
-
-*(You can add a screenshot of the app here if you'd like)*
 
 ## 📄 License
 
